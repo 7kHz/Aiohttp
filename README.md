@@ -2,5 +2,5 @@
 docker-compose up  
 **Запуск приложения:**  
 python3 server.py  
-**Отправка HTTP запросов**  
-client.py
+**Отправка HTTP запросов:**  
+client.py, либо POSTMAN
